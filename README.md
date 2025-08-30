@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+💻 Tech Stack:
+Languages: Python Java SQL MySQL HTML5 CSS JavaScript C
+
+Developer Tools: Postman PowerBI Git
+
+Libraries/Frameworks: AWS ReactJS PostgreSQL Spring Boot NodeJS
 <!--
 **MohFarrah/MohFarrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
