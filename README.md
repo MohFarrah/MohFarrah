@@ -1,8 +1,19 @@
+<h1 align="center">Hi 👋 I'm Mohammad Farrah</h1>
+
+# 💫 About Me:
+I am a computer science graduate from the University of Washington, passionate about Artificial Intelligence, Machine Learning, and building scalable applications that solve problems.
+
+## 🚀 What I'm Up To
+
+- 🤖 Researching Arabic Natural Language Processing and ways to improve it at [University of Washington](https://www.washington.edu/)
+- 💻 Building React Native applications with PostgreSQL & Supabase at [LameRo](https://www.linkedin.com/company/lameroinc/posts/?feedView=all)
+
+Check out my [coding portfolio!](https://mohfarrah.github.io/Portfolio/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammadfarrah/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohfarrah04@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -40,7 +51,7 @@ Libraries/Frameworks:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohFarrah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
