@@ -6,7 +6,7 @@ I am a computer science graduate from the University of Washington, passionate a
 ## 🚀 What I'm Up To
 
 - 🤖 Researching Arabic Natural Language Processing and ways to improve it at [University of Washington](https://www.washington.edu/)
-- 💻 Building React Native applications with PostgreSQL & Supabase at [LameRo](https://www.linkedin.com/company/lameroinc/posts/?feedView=all)
+- 💻 Building React Native applications with PostgreSQL & Supabase at [DemaDose]([https://www.linkedin.com/company/lameroinc/posts/?feedView=all](https://www.demadose.com/))
 
 Check out my [coding portfolio!](https://mohfarrah.github.io/Portfolio/)
 
